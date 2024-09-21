@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇◥ツKing👑Rulerツ◤』*"
+global.botnumber = "967737731707"
 global.confirmCode = ""
 
 global.owner = [['967737731707', '◥ツKing👑Rulerツ◤ ❦︎', true],
